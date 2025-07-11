@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*.egg-info/
+env/
+venv/
+.venv/
+
+# Other
+*.bak
+desktop.ini
+temporary.png
+deepdanbooru-v3-20211112-sgd-e28/
